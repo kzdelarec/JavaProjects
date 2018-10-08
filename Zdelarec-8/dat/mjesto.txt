@@ -1,0 +1,20 @@
+1
+Zagreb
+1
+GRAD
+2
+Mrdusa Donja
+2
+SELO
+3
+JosJedanGrad
+3
+OSTALO
+4
+Lun
+4
+GRAD
+5
+Dubrava
+1
+GRAD

@@ -1,0 +1,14 @@
+.root{
+	-fx-background-image: url(snowfall.gif);
+	-fx-background-size: cover;
+}
+.naslov{
+	-fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+.label{
+	-fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}

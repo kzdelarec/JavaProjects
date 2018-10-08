@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.java.vjezba.javafx.DodajMjernuPostajuController">
+   <top>
+      <Label styleClass="naslov" stylesheets="@application2.css" text="Unesite podatke za novu mjernu postaju" BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets bottom="50.0" top="15.0" />
+         </BorderPane.margin></Label>
+   </top>
+   <center>
+      <GridPane BorderPane.alignment="CENTER">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+          <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" valignment="CENTER" vgrow="SOMETIMES" />
+          <RowConstraints vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" valignment="CENTER" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label alignment="CENTER_RIGHT" stylesheets="@application2.css" text="Naziv:" textAlignment="CENTER" GridPane.halignment="RIGHT">
+               <GridPane.margin>
+                  <Insets />
+               </GridPane.margin></Label>
+            <Label alignment="CENTER_RIGHT" stylesheets="@application2.css" text="X i Y koordinate:" GridPane.halignment="RIGHT" GridPane.rowIndex="1" />
+            <BorderPane GridPane.columnIndex="1" GridPane.rowIndex="1">
+               <left>
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="115.0" BorderPane.alignment="CENTER">
+                     <children>
+                        <Label alignment="CENTER" text="X koordinata" />
+                        <TextField fx:id="koordinataXtextField" alignment="CENTER" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="100.0" promptText="X koordinata" />
+                        <Label alignment="CENTER" text="Y koordinata" />
+                        <TextField fx:id="koordinataYtextField" alignment="CENTER" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="100.0" promptText="Y koordinata" />
+                     </children>
+                     <BorderPane.margin>
+                        <Insets bottom="-50.0" top="-50.0" />
+                     </BorderPane.margin>
+                  </VBox>
+               </left>
+            </BorderPane>
+            <Label alignment="CENTER_RIGHT" stylesheets="@application2.css" text="Mjesto: " textAlignment="CENTER" GridPane.halignment="RIGHT" GridPane.rowIndex="2" />
+            <Label alignment="CENTER_RIGHT" stylesheets="@application2.css" text="Senzor temperature:" textAlignment="CENTER" GridPane.halignment="RIGHT" GridPane.rowIndex="3" />
+            <ComboBox fx:id="mjestoCombobox" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <ComboBox fx:id="senzoriTempCombobox" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <Label alignment="CENTER_RIGHT" stylesheets="@application2.css" text="Senzor vlage:" textAlignment="CENTER" GridPane.halignment="RIGHT" GridPane.rowIndex="4" />
+            <ComboBox fx:id="senzoriVlageCombobox" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <Label alignment="CENTER_RIGHT" stylesheets="@application2.css" text="Senzor tlaka traka:" textAlignment="CENTER" GridPane.halignment="RIGHT" GridPane.rowIndex="5" />
+            <ComboBox fx:id="senzoriTlakaCombobox" prefWidth="150.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <TextField fx:id="nazivTextField" maxWidth="-Infinity" minWidth="-Infinity" prefWidth="100.0" promptText="Naziv" GridPane.columnIndex="1">
+               <GridPane.margin>
+                  <Insets />
+               </GridPane.margin></TextField>
+         </children>
+         <BorderPane.margin>
+            <Insets top="-10.0" />
+         </BorderPane.margin>
+      </GridPane>
+   </center>
+   <bottom>
+      <Button fx:id="spremiButton" mnemonicParsing="false" onAction="#spremi" text="Dodaj" BorderPane.alignment="CENTER">
+         <BorderPane.margin>
+            <Insets bottom="10.0" top="10.0" />
+         </BorderPane.margin></Button>
+   </bottom>
+</BorderPane>
