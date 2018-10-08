@@ -1,0 +1,12 @@
+1
+XYZ
+36
+STREAMING
+2
+nepoznato
+-36
+PING
+3
+DTH11
+12
+OSTALO

@@ -1,0 +1,68 @@
+
+
+--------------------
+Naziv mjerne postaje: Gric
+Postaja se nalazi u mjestu Zagreb(GRAD), zupaniji: Grad Zagreb, drzavi Hrvatska
+Tocne koordinate postaje su: X:55.5 Y:66
+Vrijednosti Senzora postaje su:
+Komponenta: XYZ
+vrijednost: 36 °C
+Nacin rada: STREAMING
+Vrijednost senzora: 20 % vlage zraka
+Nacin rada: STREAMING
+Velicina: visok
+vrijednost: 1150 hPa
+Nacin rada: STREAMING
+
+
+
+--------------------
+Naziv mjerne postaje: ImeUSloveniji
+Postaja se nalazi u mjestu Selo(SELO), zupaniji: Koruska, drzavi Slovenija
+Tocne koordinate postaje su: X:33 Y:44
+Vrijednosti Senzora postaje su:
+Komponenta: nepoznato
+vrijednost: -36 °C
+Nacin rada: PING
+Vrijednost senzora: 10 % vlage zraka
+Nacin rada: PING
+Velicina: niski
+vrijednost: 1562 hPa
+Nacin rada: PING
+
+
+
+--------------------
+Naziv mjerne postaje: ImeUItaliji
+Postaja se nalazi u mjestu JosJedanGrad(OSTALO), zupaniji: Toscana, drzavi Italija
+Tocne koordinate postaje su: X:77 Y:88
+Vrijednosti Senzora postaje su:
+Komponenta: DTH11
+vrijednost: 12 °C
+Nacin rada: OSTALO
+Vrijednost senzora: 15 % vlage zraka
+Nacin rada: OSTALO
+Velicina: normalni
+vrijednost: 1110 hPa
+Nacin rada: OSTALO
+
+
+Ispis sortiranih zupanija:
+Grad Zagreb
+Koruska
+Toscana
+
+U mjestu Gric su sljedeci senzori:
+Senzor vlage
+Senzor tlaka
+Senzor temperature
+
+U mjestu ImeUSloveniji su sljedeci senzori:
+Senzor vlage
+Senzor tlaka
+Senzor temperature
+
+U mjestu ImeUItaliji su sljedeci senzori:
+Senzor vlage
+Senzor tlaka
+Senzor temperature

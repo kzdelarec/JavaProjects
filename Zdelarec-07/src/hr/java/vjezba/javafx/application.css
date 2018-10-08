@@ -1,0 +1,30 @@
+.root{
+	
+	-fx-background-image: url(slika.jpg);
+	-fx-background-position: -125px;
+}
+VBox .label {
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+.table-view .label{
+	
+	-fx-text-fill: gray;
+    -fx-font-size: 12px;
+	
+}
+.table-view{
+	-fx-background-color:rgb(127,255,212);
+}
+.table-view:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: -fx-focus-color;
+}
+.table-row-cell{
+    -fx-background-color:rgb(127,255,212);
+}
+
+.table-row-cell:odd{
+    -fx-background-color:rgb(245,245,220);
+}

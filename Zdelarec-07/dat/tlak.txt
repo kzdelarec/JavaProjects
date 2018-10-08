@@ -1,0 +1,12 @@
+1
+visok
+1150
+STREAMING
+2
+niski
+1562
+PING
+3
+normalni
+1110
+OSTALO
