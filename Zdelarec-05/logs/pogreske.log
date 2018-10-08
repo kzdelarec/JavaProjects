@@ -1,0 +1,571 @@
+2017-11-07 23:06:50,875 INFO [main] h.j.v.g.Glavna [Glavna.java:432] Unesen je naziv mjerne postaje: 1
+2017-11-07 23:06:51,200 INFO [main] h.j.v.g.Glavna [Glavna.java:223] Unesen je naziv drzave: 1
+2017-11-07 23:06:51,500 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesena je povrsina drzave: 1
+2017-11-07 23:06:52,087 INFO [main] h.j.v.g.Glavna [Glavna.java:181] Unesen je naziv mjesta: 1
+2017-11-07 23:06:52,696 INFO [main] h.j.v.g.Glavna [Glavna.java:412] Unesena je X koordinata: 1
+2017-11-07 23:06:53,003 INFO [main] h.j.v.g.Glavna [Glavna.java:397] Unesena je Y koordinata: 1
+2017-11-07 23:06:53,583 INFO [main] h.j.v.g.Glavna [Glavna.java:369] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-07 23:06:54,133 INFO [main] h.j.v.g.Glavna [Glavna.java:354] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-07 23:06:54,935 INFO [main] h.j.v.g.Glavna [Glavna.java:327] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-07 23:06:55,474 INFO [main] h.j.v.g.Glavna [Glavna.java:432] Unesen je naziv mjerne postaje: 1
+2017-11-07 23:06:55,741 INFO [main] h.j.v.g.Glavna [Glavna.java:223] Unesen je naziv drzave: 1
+2017-11-07 23:06:56,008 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesena je povrsina drzave: 1
+2017-11-07 23:06:56,538 INFO [main] h.j.v.g.Glavna [Glavna.java:181] Unesen je naziv mjesta: 1
+2017-11-07 23:06:57,067 INFO [main] h.j.v.g.Glavna [Glavna.java:412] Unesena je X koordinata: 1
+2017-11-07 23:06:57,309 INFO [main] h.j.v.g.Glavna [Glavna.java:397] Unesena je Y koordinata: 1
+2017-11-07 23:06:57,828 INFO [main] h.j.v.g.Glavna [Glavna.java:369] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-07 23:06:58,337 INFO [main] h.j.v.g.Glavna [Glavna.java:354] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-07 23:06:59,113 INFO [main] h.j.v.g.Glavna [Glavna.java:327] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-07 23:06:59,662 INFO [main] h.j.v.g.Glavna [Glavna.java:437] Unesen je naziv radiosondazne mjerne postaje: 1
+2017-11-07 23:07:00,005 INFO [main] h.j.v.g.Glavna [Glavna.java:312] Unesena je visina radiosondazne : 1
+2017-11-07 23:07:00,272 INFO [main] h.j.v.g.Glavna [Glavna.java:223] Unesen je naziv drzave: 1
+2017-11-07 23:07:00,569 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesena je povrsina drzave: 1
+2017-11-07 23:07:01,210 INFO [main] h.j.v.g.Glavna [Glavna.java:181] Unesen je naziv mjesta: 1
+2017-11-07 23:07:01,819 INFO [main] h.j.v.g.Glavna [Glavna.java:412] Unesena je X koordinata: 1
+2017-11-07 23:07:02,189 INFO [main] h.j.v.g.Glavna [Glavna.java:397] Unesena je Y koordinata: 1
+2017-11-07 23:07:02,990 INFO [main] h.j.v.g.Glavna [Glavna.java:369] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-07 23:07:03,918 INFO [main] h.j.v.g.Glavna [Glavna.java:354] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-07 23:07:05,333 INFO [main] h.j.v.g.Glavna [Glavna.java:327] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-13 14:50:20,943 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-13 14:50:21,240 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-13 14:50:21,558 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-13 14:50:22,151 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-13 14:50:22,795 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-13 14:50:23,138 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-13 14:50:23,872 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-13 14:50:24,800 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-13 14:51:06,771 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-13 14:51:07,479 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-13 14:51:07,820 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-13 14:51:08,467 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-13 14:51:08,955 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-13 14:51:09,152 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-13 14:51:09,525 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-13 14:51:09,963 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-13 14:51:10,859 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-13 14:51:17,281 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 3
+2017-11-13 14:51:17,800 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-13 14:51:18,239 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-13 14:51:19,146 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-13 14:51:19,956 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-13 14:51:20,354 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-13 14:51:21,110 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-13 14:51:21,942 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-13 14:51:23,165 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-13 14:51:27,376 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 9
+2017-11-13 14:51:27,763 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 9
+2017-11-13 14:51:28,135 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 9
+2017-11-13 14:51:28,544 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 9
+2017-11-13 14:51:29,220 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 9
+2017-11-13 14:51:30,011 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 9
+2017-11-13 14:51:30,420 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 9
+2017-11-13 14:51:31,307 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 9
+2017-11-13 14:51:32,234 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 9
+2017-11-13 14:51:33,801 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 9
+2017-11-13 15:04:33,855 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-13 15:04:34,879 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-13 15:04:35,234 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-13 15:04:35,876 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-13 15:04:36,537 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-13 15:04:36,874 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-13 15:04:37,636 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-13 15:04:38,381 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-13 15:04:40,028 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-13 15:04:41,893 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-13 15:04:42,305 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-13 15:04:42,694 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-13 15:04:43,399 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-13 15:04:44,090 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-13 15:04:46,976 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 22
+2017-11-13 15:04:48,299 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-13 15:04:49,377 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-13 15:04:50,907 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-13 15:04:54,032 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 3
+2017-11-13 15:04:54,511 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-13 15:04:54,915 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-13 15:04:55,325 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-13 15:04:56,070 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-13 15:04:56,963 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-13 15:04:57,402 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-13 15:04:58,329 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-13 15:04:59,544 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-13 15:05:02,049 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-13 15:09:14,759 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-13 15:09:15,178 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-13 15:09:15,518 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-13 15:09:16,090 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-13 15:09:16,706 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-13 15:09:17,051 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-13 15:09:17,833 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-13 15:09:18,763 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-13 15:09:20,505 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-13 15:09:22,686 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-13 15:09:23,061 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-13 15:09:23,396 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-13 15:09:24,003 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-13 15:09:24,622 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-13 15:09:24,945 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-13 15:09:25,694 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-13 15:09:26,766 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-13 15:09:28,530 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-13 15:09:30,737 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 3
+2017-11-13 15:09:31,122 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-13 15:09:31,537 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-13 15:09:31,913 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-13 15:09:32,639 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-13 15:09:33,492 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-13 15:09:33,947 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-13 15:09:34,856 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-13 15:09:36,072 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-13 15:09:37,862 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-13 15:20:53,248 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-13 15:20:53,608 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-13 15:20:53,949 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-13 15:20:54,592 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-13 15:20:55,259 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-13 15:20:55,584 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-13 15:20:56,283 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-13 15:20:57,073 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-13 15:20:58,206 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-13 15:21:00,390 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-13 15:21:00,886 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-13 15:21:01,292 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-13 15:21:01,963 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-13 15:21:02,650 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-13 15:21:02,966 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-13 15:21:03,592 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-13 15:21:04,179 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-13 15:21:05,082 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-13 15:21:05,880 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 1
+2017-11-13 15:21:13,704 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-13 15:21:14,029 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-13 15:21:14,312 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-13 15:21:14,807 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-13 15:21:15,365 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-13 15:21:15,671 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-13 15:21:16,227 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-13 15:21:16,824 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-13 15:21:17,877 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-13 15:26:40,313 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-13 15:26:40,622 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-13 15:26:40,910 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-13 15:26:41,392 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-13 15:26:41,829 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-13 15:26:42,060 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-13 15:26:42,615 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-13 15:26:43,202 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-13 15:26:44,206 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-13 15:26:46,202 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-13 15:26:46,659 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-13 15:26:47,165 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-13 15:26:47,854 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-13 15:26:48,492 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-13 15:26:48,796 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-13 15:26:49,324 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-13 15:26:49,849 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-13 15:26:50,792 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-13 15:26:52,146 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 3
+2017-11-13 15:26:52,462 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-13 15:26:52,755 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-13 15:26:53,009 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-13 15:26:53,536 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-13 15:26:54,032 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-13 15:26:54,274 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-13 15:26:54,833 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-13 15:26:55,652 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-13 15:26:58,061 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-13 15:32:19,083 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-13 15:32:19,371 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-13 15:32:21,629 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-13 15:32:22,568 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-13 15:32:23,084 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-13 15:32:23,377 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-13 15:32:23,974 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-13 15:32:24,715 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-13 15:32:26,001 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-13 15:32:28,145 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 3
+2017-11-13 15:32:28,571 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-13 15:32:28,853 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-13 15:32:29,460 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-13 15:32:30,036 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-13 15:32:30,322 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-13 15:32:30,940 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-13 15:32:31,590 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-13 15:32:32,894 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-13 15:32:35,802 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 2
+2017-11-13 15:32:36,218 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 2
+2017-11-13 15:32:36,550 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-13 15:32:36,897 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-13 15:32:37,564 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-13 15:32:38,436 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-13 15:32:38,851 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-13 15:32:39,754 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-13 15:32:40,725 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-13 15:32:42,415 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-13 15:33:56,923 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-13 15:33:57,821 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-13 15:33:58,167 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-13 15:33:58,672 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-13 15:33:59,116 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-13 15:33:59,341 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-13 15:33:59,878 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-13 15:34:00,514 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-13 15:34:01,478 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-13 15:34:03,928 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 3
+2017-11-13 15:34:04,305 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-13 15:34:04,657 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-13 15:34:05,236 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-13 15:34:05,823 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-13 15:34:06,135 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-13 15:34:06,746 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-13 15:34:07,384 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-13 15:34:08,873 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-13 15:34:11,775 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 2
+2017-11-13 15:34:12,088 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 2
+2017-11-13 15:34:12,402 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-13 15:34:12,685 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-13 15:34:13,305 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-13 15:34:14,184 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-13 15:34:14,520 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-13 15:34:15,177 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-13 15:34:15,827 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-13 15:34:16,819 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-13 15:36:34,781 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-13 15:36:35,030 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-13 15:36:35,268 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-13 15:36:35,728 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-13 15:36:36,183 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-13 15:36:36,417 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-13 15:36:36,914 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-13 15:36:37,530 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-13 15:36:38,564 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-13 15:36:44,531 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-13 15:36:44,876 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-13 15:36:45,199 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-13 15:36:45,787 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-13 15:36:46,376 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-13 15:36:46,688 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-13 15:36:48,097 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-13 15:36:49,180 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-13 15:36:50,629 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-13 15:36:53,489 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 3
+2017-11-13 15:36:53,915 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-13 15:36:54,307 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-13 15:36:54,673 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-13 15:36:55,299 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-13 15:36:56,121 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-13 15:36:56,558 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-13 15:36:57,450 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-13 15:36:58,481 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-13 15:37:00,403 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-14 00:30:24,891 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-14 00:30:25,260 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-14 00:30:25,601 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-14 00:30:26,222 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-14 00:30:26,839 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-14 00:30:27,194 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-14 00:30:27,885 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-14 00:30:28,663 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-14 00:30:30,466 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-14 00:30:31,480 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-14 00:30:31,843 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-14 00:30:32,228 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-14 00:30:32,959 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-14 00:30:33,728 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-14 00:30:34,083 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-14 00:30:34,802 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-14 00:30:35,574 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-14 00:30:36,761 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-14 00:30:38,280 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 3
+2017-11-14 00:30:38,706 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-14 00:30:39,021 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-14 00:30:39,375 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-14 00:30:40,471 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-14 00:30:41,279 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-14 00:30:41,695 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-14 00:30:42,487 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-14 00:30:43,326 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-14 00:30:44,824 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-14 00:33:04,513 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-14 00:33:05,370 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-14 00:33:05,720 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-14 00:33:06,324 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-14 00:33:07,001 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-14 00:33:07,348 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-14 00:33:08,057 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-14 00:33:08,857 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-14 00:33:10,397 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-14 00:33:11,776 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-14 00:33:12,221 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-14 00:33:12,667 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-14 00:33:13,445 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-14 00:33:14,246 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-14 00:33:14,642 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-14 00:33:15,510 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-14 00:33:16,534 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-14 00:33:18,436 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-14 00:33:20,381 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 3
+2017-11-14 00:33:20,817 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-14 00:33:21,292 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-14 00:33:21,768 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-14 00:33:22,711 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-14 00:33:23,619 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-14 00:33:24,025 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-14 00:33:24,956 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-14 00:33:25,970 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-14 00:33:29,139 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-14 16:12:46,165 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-14 16:12:46,574 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-14 16:12:46,907 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-14 16:14:18,314 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-14 16:14:18,660 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-14 16:14:18,930 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-14 16:14:19,515 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-14 16:14:20,326 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-14 16:14:20,715 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-14 16:14:21,501 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-14 16:14:22,518 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-14 16:14:24,285 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-14 16:14:27,708 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-14 16:14:28,146 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-14 16:14:28,525 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-14 16:14:29,214 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-14 16:14:29,950 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-14 16:14:30,302 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-14 16:14:30,956 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-14 16:14:31,647 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-14 16:14:32,665 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-14 16:14:33,792 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 2
+2017-11-14 16:14:34,675 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-14 16:14:35,016 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-14 16:14:35,287 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-14 16:14:35,797 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-14 16:14:36,264 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-14 16:14:36,481 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-14 16:14:36,960 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-14 16:14:37,509 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-14 16:14:38,557 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-14 16:45:53,490 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-14 16:45:53,746 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-14 16:45:53,991 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-14 16:45:54,435 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-14 16:45:54,904 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-14 16:45:55,135 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-14 16:45:55,635 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-14 16:45:56,290 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-14 16:45:57,929 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-14 16:46:00,491 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-14 16:46:00,829 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-14 16:46:01,081 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-14 16:46:01,518 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-14 16:46:01,927 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-14 16:46:02,149 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-14 16:46:02,627 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-14 16:46:03,242 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-14 16:46:04,410 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-14 16:46:06,138 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: 3
+2017-11-14 16:46:06,546 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-14 16:46:06,803 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-14 16:46:07,055 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-14 16:46:07,513 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-14 16:46:07,972 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-14 16:46:08,410 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 33
+2017-11-14 16:46:09,080 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-14 16:46:09,669 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-14 16:46:10,965 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-14 18:59:44,528 INFO [main] h.j.v.g.Glavna [Glavna.java:430] Unesen je naziv mjerne postaje: 2
+2017-11-14 18:59:44,776 INFO [main] h.j.v.g.Glavna [Glavna.java:221] Unesen je naziv drzave: 2
+2017-11-14 18:59:44,984 INFO [main] h.j.v.g.Glavna [Glavna.java:224] Unesena je povrsina drzave: 2
+2017-11-14 18:59:45,475 INFO [main] h.j.v.g.Glavna [Glavna.java:181] Unesen je naziv mjesta: 2
+2017-11-14 18:59:45,941 INFO [main] h.j.v.g.Glavna [Glavna.java:410] Unesena je X koordinata: 2
+2017-11-14 18:59:46,183 INFO [main] h.j.v.g.Glavna [Glavna.java:395] Unesena je Y koordinata: 2
+2017-11-14 18:59:46,628 INFO [main] h.j.v.g.Glavna [Glavna.java:367] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-14 18:59:47,173 INFO [main] h.j.v.g.Glavna [Glavna.java:352] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-14 18:59:48,075 INFO [main] h.j.v.g.Glavna [Glavna.java:325] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-14 18:59:49,482 INFO [main] h.j.v.g.Glavna [Glavna.java:430] Unesen je naziv mjerne postaje: 1
+2017-11-14 18:59:49,803 INFO [main] h.j.v.g.Glavna [Glavna.java:221] Unesen je naziv drzave: 1
+2017-11-14 18:59:50,107 INFO [main] h.j.v.g.Glavna [Glavna.java:224] Unesena je povrsina drzave: 1
+2017-11-14 18:59:50,673 INFO [main] h.j.v.g.Glavna [Glavna.java:181] Unesen je naziv mjesta: 1
+2017-11-14 18:59:51,240 INFO [main] h.j.v.g.Glavna [Glavna.java:410] Unesena je X koordinata: 1
+2017-11-14 18:59:51,524 INFO [main] h.j.v.g.Glavna [Glavna.java:395] Unesena je Y koordinata: 1
+2017-11-14 18:59:52,110 INFO [main] h.j.v.g.Glavna [Glavna.java:367] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-14 18:59:52,707 INFO [main] h.j.v.g.Glavna [Glavna.java:352] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-14 18:59:53,657 INFO [main] h.j.v.g.Glavna [Glavna.java:325] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-14 18:59:55,173 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesen je naziv radiosondazne mjerne postaje: 3
+2017-11-14 18:59:55,507 INFO [main] h.j.v.g.Glavna [Glavna.java:310] Unesena je visina radiosondazne : 3
+2017-11-14 18:59:55,932 INFO [main] h.j.v.g.Glavna [Glavna.java:221] Unesen je naziv drzave: 3
+2017-11-14 18:59:56,265 INFO [main] h.j.v.g.Glavna [Glavna.java:224] Unesena je povrsina drzave: 3
+2017-11-14 18:59:56,831 INFO [main] h.j.v.g.Glavna [Glavna.java:181] Unesen je naziv mjesta: 3
+2017-11-14 18:59:57,398 INFO [main] h.j.v.g.Glavna [Glavna.java:410] Unesena je X koordinata: 3
+2017-11-14 18:59:57,672 INFO [main] h.j.v.g.Glavna [Glavna.java:395] Unesena je Y koordinata: 3
+2017-11-14 18:59:58,239 INFO [main] h.j.v.g.Glavna [Glavna.java:367] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-14 18:59:58,905 INFO [main] h.j.v.g.Glavna [Glavna.java:352] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-14 19:00:00,029 INFO [main] h.j.v.g.Glavna [Glavna.java:325] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-16 10:50:04,308 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: mar
+2017-11-16 10:50:05,657 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-16 10:50:05,987 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-16 10:50:06,541 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-16 10:50:07,042 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-16 10:50:07,343 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-16 10:50:07,912 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 10:50:08,630 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 10:50:09,763 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 10:50:13,354 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 2
+2017-11-16 10:50:13,940 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-16 10:50:14,240 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-16 10:50:14,772 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-16 10:50:15,242 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-16 10:50:15,489 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-16 10:50:15,925 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-16 10:50:16,389 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-16 10:50:17,189 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-16 10:50:23,557 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: moar
+2017-11-16 10:50:24,659 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-16 10:50:24,921 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-16 10:50:25,175 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-16 10:50:25,606 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-16 10:50:26,044 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-16 10:50:26,260 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-16 10:50:26,776 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-16 10:50:27,261 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-16 10:50:28,124 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-16 11:01:21,633 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesen je naziv mjerne postaje: 123456799
+2017-11-16 11:01:22,712 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:01:22,913 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:01:23,297 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:01:23,650 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:01:23,866 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:01:24,250 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 11
+2017-11-16 11:01:24,634 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:01:25,736 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:01:29,921 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesen je naziv mjerne postaje: 3
+2017-11-16 11:01:31,677 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:01:31,977 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:01:32,425 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:01:32,894 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:01:33,126 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:01:33,664 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:01:34,196 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:01:35,182 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:01:37,985 INFO [main] h.j.v.g.Glavna [Glavna.java:440] Unesen je naziv radiosondazne mjerne postaje: 5564
+2017-11-16 11:01:39,219 INFO [main] h.j.v.g.Glavna [Glavna.java:315] Unesena je visina radiosondazne : 1
+2017-11-16 11:01:39,457 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:01:39,672 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:01:40,135 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:01:40,557 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:01:40,789 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:01:41,258 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:01:41,937 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:01:42,959 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:02:26,611 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesen je naziv mjerne postaje: 123456789
+2017-11-16 11:02:28,615 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:02:28,830 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:02:29,200 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:02:29,617 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:02:29,848 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:02:30,402 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:02:31,120 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:02:32,183 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:02:35,375 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesen je naziv mjerne postaje: 56
+2017-11-16 11:02:36,076 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:02:36,345 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:02:36,810 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:02:37,214 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:02:37,392 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:02:37,793 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:02:38,194 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:02:38,847 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:02:40,134 INFO [main] h.j.v.g.Glavna [Glavna.java:440] Unesen je naziv radiosondazne mjerne postaje: 9+5
+2017-11-16 11:02:41,736 INFO [main] h.j.v.g.Glavna [Glavna.java:315] Unesena je visina radiosondazne : 1
+2017-11-16 11:02:41,936 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:02:42,136 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:02:42,483 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:02:42,853 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:02:43,021 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:02:43,369 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:02:43,722 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:02:44,470 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:04:26,421 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesen je naziv mjerne postaje: 123456799
+2017-11-16 11:04:27,407 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:04:27,623 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:04:28,044 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:04:28,445 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:04:28,646 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:04:29,125 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:04:29,610 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:04:30,495 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:04:32,452 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesen je naziv mjerne postaje: 2
+2017-11-16 11:04:32,984 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:04:33,215 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:04:33,669 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:04:34,101 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:04:34,317 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:04:34,770 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:04:35,216 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:04:35,986 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:04:38,638 INFO [main] h.j.v.g.Glavna [Glavna.java:440] Unesen je naziv radiosondazne mjerne postaje: 954
+2017-11-16 11:04:39,291 INFO [main] h.j.v.g.Glavna [Glavna.java:315] Unesena je visina radiosondazne : 1
+2017-11-16 11:04:39,522 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:04:39,776 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:04:40,277 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:04:40,861 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:04:41,240 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:04:42,226 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:04:43,929 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:04:46,102 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:07:06,164 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesen je naziv mjerne postaje: 123456
+2017-11-16 11:07:07,135 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:07:07,351 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:07:07,768 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:07:08,184 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:07:08,399 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:07:08,884 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:07:09,486 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:07:10,502 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:07:12,905 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesen je naziv mjerne postaje: 5
+2017-11-16 11:07:13,460 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:07:13,675 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:07:14,107 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:07:14,523 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:07:14,724 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:07:15,162 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:07:15,693 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:07:16,864 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:07:19,168 INFO [main] h.j.v.g.Glavna [Glavna.java:440] Unesen je naziv radiosondazne mjerne postaje: 456
+2017-11-16 11:07:19,885 INFO [main] h.j.v.g.Glavna [Glavna.java:315] Unesena je visina radiosondazne : 1
+2017-11-16 11:07:20,132 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesen je naziv drzave: 1
+2017-11-16 11:07:20,354 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesena je povrsina drzave: 1
+2017-11-16 11:07:20,802 INFO [main] h.j.v.g.Glavna [Glavna.java:184] Unesen je naziv mjesta: 1
+2017-11-16 11:07:21,254 INFO [main] h.j.v.g.Glavna [Glavna.java:415] Unesena je X koordinata: 1
+2017-11-16 11:07:21,472 INFO [main] h.j.v.g.Glavna [Glavna.java:400] Unesena je Y koordinata: 1
+2017-11-16 11:07:21,957 INFO [main] h.j.v.g.Glavna [Glavna.java:372] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:07:22,558 INFO [main] h.j.v.g.Glavna [Glavna.java:357] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:07:23,790 INFO [main] h.j.v.g.Glavna [Glavna.java:330] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:16:24,856 INFO [main] h.j.v.g.Glavna [Glavna.java:438] Unesen je naziv mjerne postaje: marokor
+2017-11-16 11:16:25,257 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesen je naziv drzave: 1
+2017-11-16 11:16:25,457 INFO [main] h.j.v.g.Glavna [Glavna.java:232] Unesena je povrsina drzave: 1
+2017-11-16 11:16:25,836 INFO [main] h.j.v.g.Glavna [Glavna.java:187] Unesen je naziv mjesta: 1
+2017-11-16 11:16:26,221 INFO [main] h.j.v.g.Glavna [Glavna.java:418] Unesena je X koordinata: 1
+2017-11-16 11:16:26,405 INFO [main] h.j.v.g.Glavna [Glavna.java:403] Unesena je Y koordinata: 1
+2017-11-16 11:16:26,775 INFO [main] h.j.v.g.Glavna [Glavna.java:375] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:16:27,206 INFO [main] h.j.v.g.Glavna [Glavna.java:360] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:16:27,991 INFO [main] h.j.v.g.Glavna [Glavna.java:333] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:16:28,592 INFO [main] h.j.v.g.Glavna [Glavna.java:438] Unesen je naziv mjerne postaje: 1
+2017-11-16 11:16:30,612 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesen je naziv drzave: 1
+2017-11-16 11:16:30,865 INFO [main] h.j.v.g.Glavna [Glavna.java:232] Unesena je povrsina drzave: 1
+2017-11-16 11:16:31,297 INFO [main] h.j.v.g.Glavna [Glavna.java:187] Unesen je naziv mjesta: 1
+2017-11-16 11:16:31,729 INFO [main] h.j.v.g.Glavna [Glavna.java:418] Unesena je X koordinata: 1
+2017-11-16 11:16:31,983 INFO [main] h.j.v.g.Glavna [Glavna.java:403] Unesena je Y koordinata: 1
+2017-11-16 11:16:32,567 INFO [main] h.j.v.g.Glavna [Glavna.java:375] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-16 11:16:33,430 INFO [main] h.j.v.g.Glavna [Glavna.java:360] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-16 11:16:34,931 INFO [main] h.j.v.g.Glavna [Glavna.java:333] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-16 11:16:40,136 INFO [main] h.j.v.g.Glavna [Glavna.java:443] Unesen je naziv radiosondazne mjerne postaje: mr
+2017-11-16 11:16:40,953 INFO [main] h.j.v.g.Glavna [Glavna.java:318] Unesena je visina radiosondazne : 2
+2017-11-16 11:16:41,153 INFO [main] h.j.v.g.Glavna [Glavna.java:229] Unesen je naziv drzave: 2
+2017-11-16 11:16:41,391 INFO [main] h.j.v.g.Glavna [Glavna.java:232] Unesena je povrsina drzave: 2
+2017-11-16 11:16:41,839 INFO [main] h.j.v.g.Glavna [Glavna.java:187] Unesen je naziv mjesta: 2
+2017-11-16 11:16:42,292 INFO [main] h.j.v.g.Glavna [Glavna.java:418] Unesena je X koordinata: 2
+2017-11-16 11:16:42,540 INFO [main] h.j.v.g.Glavna [Glavna.java:403] Unesena je Y koordinata: 2
+2017-11-16 11:16:43,040 INFO [main] h.j.v.g.Glavna [Glavna.java:375] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-16 11:16:43,843 INFO [main] h.j.v.g.Glavna [Glavna.java:360] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-16 11:16:45,049 INFO [main] h.j.v.g.Glavna [Glavna.java:333] Unesena je vrijednost senzor za tlaka zraka: 2
