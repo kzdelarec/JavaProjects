@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pictionary">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pictionary</output-path>
+    <root id="archive" name="Pictionary.jar">
+      <element id="module-output" name="Pictionary" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/fakultet/Java/h2-2017-04-23/h2/bin/h2-1.4.195.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
