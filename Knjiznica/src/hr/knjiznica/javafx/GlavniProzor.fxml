@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXHamburger?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.web.WebView?>
+
+<BorderPane fx:id="appPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="622.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.knjiznica.javafx.GlavniProzorController">
+   <bottom>
+      <ToolBar prefHeight="15.0" prefWidth="600.0" BorderPane.alignment="CENTER" />
+   </bottom>
+   <center>
+      <SplitPane disable="true" dividerPositions="0.5" prefHeight="160.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <items>
+            <SplitPane dividerPositions="0.5" orientation="VERTICAL">
+               <items>
+                  <WebView fx:id="cam1WebView" prefHeight="200.0" prefWidth="200.0" />
+                  <WebView fx:id="cam2WebView" prefHeight="200.0" prefWidth="200.0" />
+               </items>
+            </SplitPane>
+            <SplitPane disable="true" dividerPositions="0.5" orientation="VERTICAL">
+               <items>
+                  <WebView fx:id="cam3WebView" prefHeight="200.0" prefWidth="200.0" />
+                  <WebView fx:id="cam4WebView" prefHeight="200.0" prefWidth="200.0" />
+               </items>
+            </SplitPane>
+         </items>
+      </SplitPane>
+   </center>
+   <top>
+      <HBox prefHeight="21.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <JFXHamburger fx:id="hamburger" alignment="CENTER_RIGHT">
+               <HBox.margin>
+                  <Insets bottom="2.0" left="2.0" top="2.0" />
+               </HBox.margin></JFXHamburger>
+         </children>
+      </HBox>
+   </top>
+   <left>
+      <VBox fx:id="meniVbox" alignment="CENTER" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fx:id="pozadina" fitHeight="150.0" fitWidth="200.0" pickOnBounds="true">
+               <image>
+                  <Image url="@../../../../../../Desktop/default_cover_photo_5_google_plus.jpg" />
+               </image>
+            </ImageView>
+            <Label fx:id="knjiznicarLabel" text="Label" textFill="WHITE">
+               <VBox.margin>
+                  <Insets top="-20.0" />
+               </VBox.margin>
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+            <ImageView fx:id="knjiznicarIkona" fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+               <VBox.margin>
+                  <Insets bottom="20.0" top="-80.0" />
+               </VBox.margin>
+            </ImageView>
+            <Label prefWidth="200.0" text="Knjižničar">
+               <VBox.margin>
+                  <Insets bottom="10.0" top="20.0" />
+               </VBox.margin>
+            </Label>
+            <JFXButton buttonType="RAISED" onAction="#projenaPodataka" prefHeight="74.0" prefWidth="200.0" ripplerFill="#ff4848" style="-fx-background-color: #f1f1f1;" text="Promjena podataka">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </JFXButton>
+            <JFXButton fx:id="logButton" buttonType="RAISED" onAction="#otvoriLog" prefHeight="74.0" prefWidth="200.0" ripplerFill="#ff4848" style="-fx-background-color: #f1f1f1;" text="Log" />
+            <JFXButton buttonType="RAISED" onAction="#odjaviSe" prefHeight="74.0" prefWidth="200.0" ripplerFill="#ff4848" style="-fx-background-color: #f1f1f1;" text="Odjavi se">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </JFXButton>
+            <JFXButton buttonType="RAISED" onAction="#izadiIzAplikacije" prefHeight="74.0" prefWidth="200.0" ripplerFill="#ff4848" style="-fx-background-color: #f1f1f1;" text="Izlaz">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </JFXButton>
+            <Label prefWidth="200.0" text="Pregled">
+               <VBox.margin>
+                  <Insets bottom="10.0" top="20.0" />
+               </VBox.margin>
+            </Label>
+            <JFXButton buttonType="RAISED" onAction="#otvoriKnjige" prefHeight="74.0" prefWidth="200.0" ripplerFill="#ff4848" style="-fx-background-color: #f1f1f1;" text="Knjige">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </JFXButton>
+            <JFXButton buttonType="RAISED" onAction="#otvoriKorisnike" prefHeight="74.0" prefWidth="200.0" ripplerFill="#ff4848" style="-fx-background-color: #f1f1f1;" text="Korisnici">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </JFXButton>
+            <Label prefWidth="200.0" text="Novo">
+               <VBox.margin>
+                  <Insets bottom="10.0" top="20.0" />
+               </VBox.margin>
+            </Label>
+            <JFXButton buttonType="RAISED" onAction="#dodajKnjige" prefHeight="74.0" prefWidth="200.0" ripplerFill="#ff4848" style="-fx-background-color: #f1f1f1;" text="Nova knjiga">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </JFXButton>
+            <JFXButton buttonType="RAISED" onAction="#dodajKorisnika" prefHeight="74.0" prefWidth="200.0" ripplerFill="#ff4848" style="-fx-background-color: #f1f1f1;" text="Novi korisnik">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </JFXButton>
+            <JFXButton buttonType="RAISED" onAction="#dodajKnjiznicara" prefHeight="74.0" prefWidth="200.0" ripplerFill="#ff4848" style="-fx-background-color: #f1f1f1;" text="Novi knjižničar">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+            </JFXButton>
+         </children>
+      </VBox>
+   </left>
+</BorderPane>
