@@ -1,0 +1,16 @@
+.root{
+	/*-fx-background-image: url(sun.gif);
+	-fx-background-size: cover;
+	-fx-background-position: top -100px;*/
+	-fx-background-color: gray;
+}
+.naslov{
+	-fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+.label{
+	-fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
