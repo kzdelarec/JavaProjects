@@ -1,0 +1,3 @@
+Suma duljina naziva: 24
+Najkraci naziv ima: Gric
+Najdulji naziv ima: MImeUSloveniji
