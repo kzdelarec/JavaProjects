@@ -1,0 +1,493 @@
+2017-11-07 23:06:50,875 INFO [main] h.j.v.g.Glavna [Glavna.java:432] Unesen je naziv mjerne postaje: 1
+2017-11-07 23:06:51,200 INFO [main] h.j.v.g.Glavna [Glavna.java:223] Unesen je naziv drzave: 1
+2017-11-07 23:06:51,500 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesena je povrsina drzave: 1
+2017-11-07 23:06:52,087 INFO [main] h.j.v.g.Glavna [Glavna.java:181] Unesen je naziv mjesta: 1
+2017-11-07 23:06:52,696 INFO [main] h.j.v.g.Glavna [Glavna.java:412] Unesena je X koordinata: 1
+2017-11-07 23:06:53,003 INFO [main] h.j.v.g.Glavna [Glavna.java:397] Unesena je Y koordinata: 1
+2017-11-07 23:06:53,583 INFO [main] h.j.v.g.Glavna [Glavna.java:369] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-07 23:06:54,133 INFO [main] h.j.v.g.Glavna [Glavna.java:354] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-07 23:06:54,935 INFO [main] h.j.v.g.Glavna [Glavna.java:327] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-07 23:06:55,474 INFO [main] h.j.v.g.Glavna [Glavna.java:432] Unesen je naziv mjerne postaje: 1
+2017-11-07 23:06:55,741 INFO [main] h.j.v.g.Glavna [Glavna.java:223] Unesen je naziv drzave: 1
+2017-11-07 23:06:56,008 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesena je povrsina drzave: 1
+2017-11-07 23:06:56,538 INFO [main] h.j.v.g.Glavna [Glavna.java:181] Unesen je naziv mjesta: 1
+2017-11-07 23:06:57,067 INFO [main] h.j.v.g.Glavna [Glavna.java:412] Unesena je X koordinata: 1
+2017-11-07 23:06:57,309 INFO [main] h.j.v.g.Glavna [Glavna.java:397] Unesena je Y koordinata: 1
+2017-11-07 23:06:57,828 INFO [main] h.j.v.g.Glavna [Glavna.java:369] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-07 23:06:58,337 INFO [main] h.j.v.g.Glavna [Glavna.java:354] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-07 23:06:59,113 INFO [main] h.j.v.g.Glavna [Glavna.java:327] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-07 23:06:59,662 INFO [main] h.j.v.g.Glavna [Glavna.java:437] Unesen je naziv radiosondazne mjerne postaje: 1
+2017-11-07 23:07:00,005 INFO [main] h.j.v.g.Glavna [Glavna.java:312] Unesena je visina radiosondazne : 1
+2017-11-07 23:07:00,272 INFO [main] h.j.v.g.Glavna [Glavna.java:223] Unesen je naziv drzave: 1
+2017-11-07 23:07:00,569 INFO [main] h.j.v.g.Glavna [Glavna.java:226] Unesena je povrsina drzave: 1
+2017-11-07 23:07:01,210 INFO [main] h.j.v.g.Glavna [Glavna.java:181] Unesen je naziv mjesta: 1
+2017-11-07 23:07:01,819 INFO [main] h.j.v.g.Glavna [Glavna.java:412] Unesena je X koordinata: 1
+2017-11-07 23:07:02,189 INFO [main] h.j.v.g.Glavna [Glavna.java:397] Unesena je Y koordinata: 1
+2017-11-07 23:07:02,990 INFO [main] h.j.v.g.Glavna [Glavna.java:369] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-07 23:07:03,918 INFO [main] h.j.v.g.Glavna [Glavna.java:354] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-07 23:07:05,333 INFO [main] h.j.v.g.Glavna [Glavna.java:327] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-09 15:58:40,864 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: 1
+2017-11-09 15:58:41,534 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-09 15:58:43,258 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-09 15:58:51,458 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: jedan
+2017-11-09 15:58:51,900 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 1
+2017-11-09 15:58:52,237 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 1
+2017-11-09 15:58:53,449 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 1
+2017-11-09 15:58:55,574 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 1
+2017-11-09 15:58:56,189 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 1
+2017-11-09 15:58:57,001 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-09 15:58:58,113 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-09 15:58:59,542 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-09 15:59:03,832 INFO [main] h.j.v.g.Glavna [Glavna.java:434] Unesen je naziv mjerne postaje: dva
+2017-11-09 15:59:04,905 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 2
+2017-11-09 15:59:05,321 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 2
+2017-11-09 15:59:06,089 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 2
+2017-11-09 15:59:06,888 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 2
+2017-11-09 15:59:07,290 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 2
+2017-11-09 15:59:08,122 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-09 15:59:08,943 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-09 15:59:10,307 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-09 15:59:14,769 INFO [main] h.j.v.g.Glavna [Glavna.java:439] Unesen je naziv radiosondazne mjerne postaje: tri
+2017-11-09 15:59:15,508 INFO [main] h.j.v.g.Glavna [Glavna.java:314] Unesena je visina radiosondazne : 3
+2017-11-09 15:59:15,881 INFO [main] h.j.v.g.Glavna [Glavna.java:225] Unesen je naziv drzave: 3
+2017-11-09 15:59:16,265 INFO [main] h.j.v.g.Glavna [Glavna.java:228] Unesena je povrsina drzave: 3
+2017-11-09 15:59:19,731 INFO [main] h.j.v.g.Glavna [Glavna.java:183] Unesen je naziv mjesta: 3
+2017-11-09 15:59:20,450 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je X koordinata: 3
+2017-11-09 15:59:20,893 INFO [main] h.j.v.g.Glavna [Glavna.java:399] Unesena je Y koordinata: 3
+2017-11-09 15:59:21,885 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-09 15:59:22,878 INFO [main] h.j.v.g.Glavna [Glavna.java:356] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-09 15:59:24,325 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-09 15:59:34,929 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-11)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 15:59:34,930 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:100] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.VisokaTemperaturaException: Temperatura je previsoka! (43)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:131)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 15:59:34,930 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-34)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 15:59:44,933 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: tri
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-42)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 15:59:54,936 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:100] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.VisokaTemperaturaException: Temperatura je previsoka! (43)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:131)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 15:59:54,939 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-16)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:00:44,945 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: tri
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-31)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:01:14,949 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: tri
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-39)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:01:14,951 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: tri
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-19)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:02:04,955 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-12)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:02:14,958 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: tri
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-33)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:02:34,962 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:100] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.VisokaTemperaturaException: Temperatura je previsoka! (41)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:131)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:03:24,965 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-17)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:03:34,967 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-37)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:03:34,970 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-18)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:03:34,987 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-17)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:03:34,991 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-23)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:03:34,994 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-19)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:04,997 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-28)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:15,001 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: tri
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-29)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:25,004 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-13)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:25,007 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-27)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:25,011 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-21)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:25,015 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-25)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:25,032 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-47)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:25,033 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:100] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.VisokaTemperaturaException: Temperatura je previsoka! (43)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:131)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:35,037 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-50)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:45,038 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: tri
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-42)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:04:55,041 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: jedan
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-21)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:05:05,044 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-17)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:05:05,047 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-14)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:295)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:293)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:284)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:146)
+2017-11-09 16:07:54,732 INFO [main] h.j.v.g.Glavna [Glavna.java:449] Unesen je naziv mjerne postaje: 1
+2017-11-09 16:07:55,061 INFO [main] h.j.v.g.Glavna [Glavna.java:238] Unesen je naziv drzave: 1
+2017-11-09 16:08:03,572 INFO [main] h.j.v.g.Glavna [Glavna.java:449] Unesen je naziv mjerne postaje: jedan
+2017-11-09 16:08:04,519 INFO [main] h.j.v.g.Glavna [Glavna.java:238] Unesen je naziv drzave: 1
+2017-11-09 16:08:06,243 INFO [main] h.j.v.g.Glavna [Glavna.java:241] Unesena je povrsina drzave: 1
+2017-11-09 16:08:07,240 INFO [main] h.j.v.g.Glavna [Glavna.java:192] Unesen je naziv mjesta: 1
+2017-11-09 16:08:08,002 INFO [main] h.j.v.g.Glavna [Glavna.java:429] Unesena je X koordinata: 1
+2017-11-09 16:08:08,316 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je Y koordinata: 1
+2017-11-09 16:08:09,043 INFO [main] h.j.v.g.Glavna [Glavna.java:386] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-09 16:08:09,783 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-09 16:08:10,917 INFO [main] h.j.v.g.Glavna [Glavna.java:344] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-09 16:08:14,072 INFO [main] h.j.v.g.Glavna [Glavna.java:449] Unesen je naziv mjerne postaje: dva
+2017-11-09 16:08:14,745 INFO [main] h.j.v.g.Glavna [Glavna.java:238] Unesen je naziv drzave: 1
+2017-11-09 16:08:15,060 INFO [main] h.j.v.g.Glavna [Glavna.java:241] Unesena je povrsina drzave: 1
+2017-11-09 16:08:15,707 INFO [main] h.j.v.g.Glavna [Glavna.java:192] Unesen je naziv mjesta: 1
+2017-11-09 16:08:16,338 INFO [main] h.j.v.g.Glavna [Glavna.java:429] Unesena je X koordinata: 1
+2017-11-09 16:08:16,660 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je Y koordinata: 1
+2017-11-09 16:08:17,287 INFO [main] h.j.v.g.Glavna [Glavna.java:386] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-09 16:08:18,179 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-09 16:08:19,863 INFO [main] h.j.v.g.Glavna [Glavna.java:344] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-09 16:08:27,640 INFO [main] h.j.v.g.Glavna [Glavna.java:454] Unesen je naziv radiosondazne mjerne postaje: trii
+2017-11-09 16:08:28,763 INFO [main] h.j.v.g.Glavna [Glavna.java:329] Unesena je visina radiosondazne : 3
+2017-11-09 16:08:29,119 INFO [main] h.j.v.g.Glavna [Glavna.java:238] Unesen je naziv drzave: 3
+2017-11-09 16:08:29,453 INFO [main] h.j.v.g.Glavna [Glavna.java:241] Unesena je povrsina drzave: 3
+2017-11-09 16:08:30,130 INFO [main] h.j.v.g.Glavna [Glavna.java:192] Unesen je naziv mjesta: 3
+2017-11-09 16:08:30,828 INFO [main] h.j.v.g.Glavna [Glavna.java:429] Unesena je X koordinata: 3
+2017-11-09 16:08:31,162 INFO [main] h.j.v.g.Glavna [Glavna.java:414] Unesena je Y koordinata: 3
+2017-11-09 16:08:31,889 INFO [main] h.j.v.g.Glavna [Glavna.java:386] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-09 16:08:32,741 INFO [main] h.j.v.g.Glavna [Glavna.java:371] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-09 16:08:34,533 INFO [main] h.j.v.g.Glavna [Glavna.java:344] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-09 16:24:39,721 INFO [main] h.j.v.g.Glavna [Glavna.java:451] Unesen je naziv mjerne postaje: jedan
+2017-11-09 16:24:40,466 INFO [main] h.j.v.g.Glavna [Glavna.java:240] Unesen je naziv drzave: 1
+2017-11-09 16:24:40,744 INFO [main] h.j.v.g.Glavna [Glavna.java:243] Unesena je povrsina drzave: 1
+2017-11-09 16:24:41,207 INFO [main] h.j.v.g.Glavna [Glavna.java:194] Unesen je naziv mjesta: 1
+2017-11-09 16:24:41,633 INFO [main] h.j.v.g.Glavna [Glavna.java:431] Unesena je X koordinata: 1
+2017-11-09 16:24:41,854 INFO [main] h.j.v.g.Glavna [Glavna.java:416] Unesena je Y koordinata: 1
+2017-11-09 16:24:42,300 INFO [main] h.j.v.g.Glavna [Glavna.java:388] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-09 16:24:42,776 INFO [main] h.j.v.g.Glavna [Glavna.java:373] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-09 16:24:44,265 INFO [main] h.j.v.g.Glavna [Glavna.java:346] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-09 16:24:45,195 INFO [main] h.j.v.g.Glavna [Glavna.java:451] Unesen je naziv mjerne postaje: 2
+2017-11-09 16:24:45,457 INFO [main] h.j.v.g.Glavna [Glavna.java:240] Unesen je naziv drzave: 2
+2017-11-09 16:24:45,721 INFO [main] h.j.v.g.Glavna [Glavna.java:243] Unesena je povrsina drzave: 2
+2017-11-09 16:24:46,257 INFO [main] h.j.v.g.Glavna [Glavna.java:194] Unesen je naziv mjesta: 2
+2017-11-09 16:24:47,159 INFO [main] h.j.v.g.Glavna [Glavna.java:431] Unesena je X koordinata: 2
+2017-11-09 16:24:47,411 INFO [main] h.j.v.g.Glavna [Glavna.java:416] Unesena je Y koordinata: 2
+2017-11-09 16:24:47,997 INFO [main] h.j.v.g.Glavna [Glavna.java:388] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-09 16:24:48,668 INFO [main] h.j.v.g.Glavna [Glavna.java:373] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-09 16:24:50,113 INFO [main] h.j.v.g.Glavna [Glavna.java:346] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-09 16:24:56,936 INFO [main] h.j.v.g.Glavna [Glavna.java:456] Unesen je naziv radiosondazne mjerne postaje: dgdfhddghg
+2017-11-09 16:24:58,099 INFO [main] h.j.v.g.Glavna [Glavna.java:331] Unesena je visina radiosondazne : 3
+2017-11-09 16:24:58,333 INFO [main] h.j.v.g.Glavna [Glavna.java:240] Unesen je naziv drzave: 3
+2017-11-09 16:24:58,585 INFO [main] h.j.v.g.Glavna [Glavna.java:243] Unesena je povrsina drzave: 3
+2017-11-09 16:24:59,091 INFO [main] h.j.v.g.Glavna [Glavna.java:194] Unesen je naziv mjesta: 3
+2017-11-09 16:24:59,628 INFO [main] h.j.v.g.Glavna [Glavna.java:431] Unesena je X koordinata: 3
+2017-11-09 16:24:59,902 INFO [main] h.j.v.g.Glavna [Glavna.java:416] Unesena je Y koordinata: 3
+2017-11-09 16:25:00,428 INFO [main] h.j.v.g.Glavna [Glavna.java:388] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-09 16:25:01,086 INFO [main] h.j.v.g.Glavna [Glavna.java:373] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-09 16:25:02,047 INFO [main] h.j.v.g.Glavna [Glavna.java:346] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-09 16:28:54,999 INFO [main] h.j.v.g.Glavna [Glavna.java:451] Unesen je naziv mjerne postaje: jedan
+2017-11-09 16:28:55,491 INFO [main] h.j.v.g.Glavna [Glavna.java:240] Unesen je naziv drzave: 1
+2017-11-09 16:28:55,749 INFO [main] h.j.v.g.Glavna [Glavna.java:243] Unesena je povrsina drzave: 1
+2017-11-09 16:28:56,222 INFO [main] h.j.v.g.Glavna [Glavna.java:194] Unesen je naziv mjesta: 1
+2017-11-09 16:28:56,798 INFO [main] h.j.v.g.Glavna [Glavna.java:431] Unesena je X koordinata: 1
+2017-11-09 16:28:57,089 INFO [main] h.j.v.g.Glavna [Glavna.java:416] Unesena je Y koordinata: 1
+2017-11-09 16:28:57,646 INFO [main] h.j.v.g.Glavna [Glavna.java:388] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-09 16:28:58,558 INFO [main] h.j.v.g.Glavna [Glavna.java:373] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-09 16:29:00,239 INFO [main] h.j.v.g.Glavna [Glavna.java:346] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-09 16:29:03,415 INFO [main] h.j.v.g.Glavna [Glavna.java:451] Unesen je naziv mjerne postaje: dva
+2017-11-09 16:29:04,297 INFO [main] h.j.v.g.Glavna [Glavna.java:240] Unesen je naziv drzave: 2
+2017-11-09 16:29:04,548 INFO [main] h.j.v.g.Glavna [Glavna.java:243] Unesena je povrsina drzave: 2
+2017-11-09 16:29:05,035 INFO [main] h.j.v.g.Glavna [Glavna.java:194] Unesen je naziv mjesta: 2
+2017-11-09 16:29:05,511 INFO [main] h.j.v.g.Glavna [Glavna.java:431] Unesena je X koordinata: 2
+2017-11-09 16:29:05,762 INFO [main] h.j.v.g.Glavna [Glavna.java:416] Unesena je Y koordinata: 2
+2017-11-09 16:29:06,258 INFO [main] h.j.v.g.Glavna [Glavna.java:388] Unesena je vrijednost senzor za temperaturu: 2
+2017-11-09 16:29:06,797 INFO [main] h.j.v.g.Glavna [Glavna.java:373] Unesena je vrijednost senzor za vlagu zraka: 2
+2017-11-09 16:29:07,575 INFO [main] h.j.v.g.Glavna [Glavna.java:346] Unesena je vrijednost senzor za tlaka zraka: 2
+2017-11-09 16:29:12,414 INFO [main] h.j.v.g.Glavna [Glavna.java:456] Unesen je naziv radiosondazne mjerne postaje: trasdasfa
+2017-11-09 16:29:14,064 INFO [main] h.j.v.g.Glavna [Glavna.java:331] Unesena je visina radiosondazne : 3
+2017-11-09 16:29:14,399 INFO [main] h.j.v.g.Glavna [Glavna.java:240] Unesen je naziv drzave: 3
+2017-11-09 16:29:14,640 INFO [main] h.j.v.g.Glavna [Glavna.java:243] Unesena je povrsina drzave: 3
+2017-11-09 16:29:15,075 INFO [main] h.j.v.g.Glavna [Glavna.java:194] Unesen je naziv mjesta: 3
+2017-11-09 16:29:15,492 INFO [main] h.j.v.g.Glavna [Glavna.java:431] Unesena je X koordinata: 3
+2017-11-09 16:29:15,702 INFO [main] h.j.v.g.Glavna [Glavna.java:416] Unesena je Y koordinata: 3
+2017-11-09 16:29:16,179 INFO [main] h.j.v.g.Glavna [Glavna.java:388] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-09 16:29:16,735 INFO [main] h.j.v.g.Glavna [Glavna.java:373] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-09 16:29:17,657 INFO [main] h.j.v.g.Glavna [Glavna.java:346] Unesena je vrijednost senzor za tlaka zraka: 3
+2017-11-09 16:29:28,069 ERROR [main] h.j.v.g.Glavna [SenzorTemperature.java:95] Pogresna temperatura postaje: dva
+hr.java.vjezbe.iznimke.NiskaTemperaturaException: Temperatura je preniska! (-46)
+	at hr.java.vjezbe.entitet.SenzorTemperature.provjeraTemperature(SenzorTemperature.java:127)
+	at hr.java.vjezbe.entitet.SenzorTemperature.generirajVrjednost(SenzorTemperature.java:90)
+	at hr.java.vjezbe.glavna.Glavna.lambda$4(Glavna.java:312)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.lambda$3(Glavna.java:310)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1378)
+	at hr.java.vjezbe.glavna.Glavna.kontinuiranoUcitavanjeSenzoraTemperature(Glavna.java:301)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:149)
+2017-11-09 16:49:00,976 INFO [main] h.j.v.g.Glavna [Glavna.java:470] Unesen je naziv mjerne postaje: jedan
+2017-11-09 16:49:01,774 INFO [main] h.j.v.g.Glavna [Glavna.java:259] Unesen je naziv drzave: 1
+2017-11-09 16:49:02,124 INFO [main] h.j.v.g.Glavna [Glavna.java:262] Unesena je povrsina drzave: 1
+2017-11-09 16:49:02,646 INFO [main] h.j.v.g.Glavna [Glavna.java:213] Unesen je naziv mjesta: 1
+2017-11-09 16:49:03,343 INFO [main] h.j.v.g.Glavna [Glavna.java:450] Unesena je X koordinata: 1
+2017-11-09 16:49:04,457 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesena je Y koordinata: 1
+2017-11-09 16:49:05,043 INFO [main] h.j.v.g.Glavna [Glavna.java:407] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-09 16:49:05,673 INFO [main] h.j.v.g.Glavna [Glavna.java:392] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-09 16:49:07,283 INFO [main] h.j.v.g.Glavna [Glavna.java:365] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-09 16:49:11,599 INFO [main] h.j.v.g.Glavna [Glavna.java:470] Unesen je naziv mjerne postaje: dva
+2017-11-09 16:49:13,867 INFO [main] h.j.v.g.Glavna [Glavna.java:259] Unesen je naziv drzave: 1
+2017-11-09 16:49:14,263 INFO [main] h.j.v.g.Glavna [Glavna.java:262] Unesena je povrsina drzave: 1
+2017-11-09 16:49:15,476 INFO [main] h.j.v.g.Glavna [Glavna.java:213] Unesen je naziv mjesta: 1
+2017-11-09 16:49:18,708 INFO [main] h.j.v.g.Glavna [Glavna.java:450] Unesena je X koordinata: 96
+2017-11-09 16:49:20,275 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesena je Y koordinata: 1
+2017-11-09 16:49:21,066 INFO [main] h.j.v.g.Glavna [Glavna.java:407] Unesena je vrijednost senzor za temperaturu: 1
+2017-11-09 16:49:21,815 INFO [main] h.j.v.g.Glavna [Glavna.java:392] Unesena je vrijednost senzor za vlagu zraka: 1
+2017-11-09 16:49:23,534 INFO [main] h.j.v.g.Glavna [Glavna.java:365] Unesena je vrijednost senzor za tlaka zraka: 1
+2017-11-09 16:49:31,980 INFO [main] h.j.v.g.Glavna [Glavna.java:475] Unesen je naziv radiosondazne mjerne postaje: trihdhdf
+2017-11-09 16:49:34,476 INFO [main] h.j.v.g.Glavna [Glavna.java:350] Unesena je visina radiosondazne : 1
+2017-11-09 16:49:35,082 INFO [main] h.j.v.g.Glavna [Glavna.java:259] Unesen je naziv drzave: 1
+2017-11-09 16:49:35,810 INFO [main] h.j.v.g.Glavna [Glavna.java:262] Unesena je povrsina drzave: 1
+2017-11-09 16:49:37,980 INFO [main] h.j.v.g.Glavna [Glavna.java:213] Unesen je naziv mjesta: 1
+2017-11-09 16:49:41,780 INFO [main] h.j.v.g.Glavna [Glavna.java:450] Unesena je X koordinata: 83
+2017-11-09 16:49:45,142 INFO [main] h.j.v.g.Glavna [Glavna.java:435] Unesena je Y koordinata: 3
+2017-11-09 16:49:45,829 INFO [main] h.j.v.g.Glavna [Glavna.java:407] Unesena je vrijednost senzor za temperaturu: 3
+2017-11-09 16:49:46,882 INFO [main] h.j.v.g.Glavna [Glavna.java:392] Unesena je vrijednost senzor za vlagu zraka: 3
+2017-11-09 16:49:49,151 INFO [main] h.j.v.g.Glavna [Glavna.java:365] Unesena je vrijednost senzor za tlaka zraka: 3
