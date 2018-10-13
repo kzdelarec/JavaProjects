@@ -17,6 +17,7 @@ public class Glavna {
 	public static final Integer BROJ_PROFESORA = 2;
 	public static final Integer BROJ_PREDMETA = 3;
 	public static final Integer BROJ_ISPITA = 1;
+	public static final Integer BROJ_STUDENATA = 3;
 
 	public static void main(String[] args) {
 
@@ -24,6 +25,9 @@ public class Glavna {
 		Profesor[] poljeProfesora = new Profesor[BROJ_PROFESORA];
 		Predmet[] poljePredmeta = new Predmet[BROJ_PREDMETA];
 		Ispit[] poljeIspita = new Ispit[BROJ_ISPITA];
+		
+		//>> dodano polje studenata
+		Student[] poljeStudenata = new Student[BROJ_STUDENATA];
 
 		// inicijalizacija skenera
 		Scanner unos = new Scanner(System.in);
@@ -34,8 +38,11 @@ public class Glavna {
 		// unos predmeta
 		unosPredmeta(poljeProfesora, poljePredmeta, unos);
 		
+		//>>Dodan poziv funkcije za unos studenata
+		unosStudenata(unos, poljeStudenata);
+		
 		// unos ispita
-		unosIspita(poljePredmeta, poljeIspita, unos);
+		unosIspita(poljePredmeta, poljeIspita, unos, poljeStudenata);
 		
 		// ispis ispita na kojima je ostvarena ocjena 5
 		ispisPetica(poljeIspita);
@@ -51,7 +58,7 @@ public class Glavna {
 		}
 	}
 
-	public static void unosIspita(Predmet[] poljePredmeta, Ispit[] poljeIspita, Scanner unos) {
+	public static void unosIspita(Predmet[] poljePredmeta, Ispit[] poljeIspita, Scanner unos, Student[] poljeStudenata) {
 		for (int i = 0; i < BROJ_ISPITA; i++) {
 
 			// lokalne varijable za kreiranje objekta
@@ -76,14 +83,14 @@ public class Glavna {
 			
 			System.out.println("Odaberite studenta:");
 			// ispis studenata za odabir
-			for (int j = 0; j < predmet.getStudenti().length; j++) {
-				System.out.println(j + 1 + ". " + predmet.getStudenti()[j].getIme() + " " + predmet.getStudenti()[j].getPrezime());
+			for (int j = 0; j < BROJ_STUDENATA; j++) {
+				System.out.println(j + 1 + ". " + poljeStudenata[j].getIme() + " " + poljeStudenata[j].getPrezime());
 			}
 			// odabir predmeta
 			System.out.println("Odabir >> ");
 			odabir = unos.nextInt();
 			unos.nextLine(); // cisti buffer, bez toga kod preskace djelove za input
-			student = predmet.getStudenti()[odabir-1];
+			student = poljeStudenata[odabir-1];
 			
 			System.out.println("Unesite ocjenu na ispitu (1-5): ");
 			ocjena = unos.nextInt();
@@ -145,23 +152,21 @@ public class Glavna {
 
 			Student[] studenti = new Student[brojStudenata];
 
-			studenti = unosStudenata(unos, i, brojStudenata, studenti);
-
 			// kreiranje objekta i pohrana u polje
-			Predmet predmet = new Predmet(sifra, naziv, brojEctsBodova, nositelj, studenti);
+			Predmet predmet = new Predmet(sifra, naziv, brojEctsBodova, nositelj);
 			poljePredmeta[i] = predmet;
 		}
 	}
 
-	public static Student[] unosStudenata(Scanner unos, int i, Integer brojStudenata, Student[] studenti) {
-		for (int k = 0; k < brojStudenata; k++) {
+	public static void unosStudenata(Scanner unos, Student[] poljeStudenata ) {
+		for (int k = 0; k < BROJ_STUDENATA; k++) {
 			// lokalne varijable za kreiranje objekta
 			String ime;
 			String prezime;
 			String jmbag;
 			LocalDate datumRodenja;
 
-			System.out.println("Unesite " + (i + 1) + ". studenta:");
+			System.out.println("Unesite " + (k + 1) + ". studenta:");
 
 			// kod za popunjavanje lokalnih varijabli
 
@@ -180,9 +185,8 @@ public class Glavna {
 
 			// kreiranje objekta i pohrana u polje
 			Student student = new Student(ime, prezime, jmbag, datumRodenja);
-			studenti[k] = student;
+			poljeStudenata[k] = student;
 		}
-		return studenti;
 	}
 
 	public static void unosProfesora(Profesor[] poljeProfesora, Scanner unos) {

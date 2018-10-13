@@ -8,13 +8,14 @@ public class Predmet {
 	private Profesor nositelj;
 	private Student[] studenti;
 	
-	public Predmet(String sifra, String naziv, Integer brojEctsBodova, Profesor nositelj, Student[] studenti) {
+	
+	//>>Iz konstruktora je maknut argument Studenti[] studenti
+	public Predmet(String sifra, String naziv, Integer brojEctsBodova, Profesor nositelj) {
 
 		this.sifra = sifra;
 		this.naziv = naziv;
 		this.brojEctsBodova = brojEctsBodova;
 		this.nositelj = nositelj;
-		this.studenti = studenti;
 	}
 	
 	public String getSifra() {
