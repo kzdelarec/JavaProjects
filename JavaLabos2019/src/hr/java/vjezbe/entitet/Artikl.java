@@ -2,7 +2,7 @@ package hr.java.vjezbe.entitet;
 
 import java.math.BigDecimal;
 
-public class Artikl {
+public abstract class Artikl {
 
 	private String naslov;
 	private String opis;
@@ -15,6 +15,8 @@ public class Artikl {
 		this.cijena = cijena;
 	}
 
+	public abstract String tekstOglasa();
+	
 	public String getNaslov() {
 		return naslov;
 	}
