@@ -12,3 +12,24 @@ hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previse kw, ne 
 	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:74)
 	at hr.java.vjezbe.glavna.GlavnaDatoteke.ispisProdaje(GlavnaDatoteke.java:65)
 	at hr.java.vjezbe.glavna.GlavnaDatoteke.main(GlavnaDatoteke.java:41)
+2019-11-26 18:00:09,569 ERROR [main] h.j.v.e.Automobil [Automobil.java:77] Previse kw, ne mogu odredit5i grupu osiguranja
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previse kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:58)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:45)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:74)
+	at hr.java.vjezbe.glavna.GlavnaDatoteke.ispisProdaje(GlavnaDatoteke.java:62)
+	at hr.java.vjezbe.glavna.GlavnaDatoteke.main(GlavnaDatoteke.java:41)
+2019-11-26 18:00:57,899 ERROR [main] h.j.v.e.Automobil [Automobil.java:77] Previse kw, ne mogu odredit5i grupu osiguranja
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previse kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:58)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:45)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:74)
+	at hr.java.vjezbe.glavna.GlavnaDatoteke.ispisProdaje(GlavnaDatoteke.java:62)
+	at hr.java.vjezbe.glavna.GlavnaDatoteke.main(GlavnaDatoteke.java:41)
+2019-11-26 18:01:18,166 ERROR [main] h.j.v.e.Automobil [Automobil.java:77] Previse kw, ne mogu odredit5i grupu osiguranja
+hr.java.vjezbe.iznimke.NemoguceOdreditiGrupuOsiguranjaException: Previse kw, ne mogu odrediti grupu osiguranja.
+	at hr.java.vjezbe.entitet.Automobil.izracunajGrupuOsiguranja(Automobil.java:58)
+	at hr.java.vjezbe.entitet.Vozilo.izracunajCijenuOsiguranja(Vozilo.java:45)
+	at hr.java.vjezbe.entitet.Automobil.tekstOglasa(Automobil.java:74)
+	at hr.java.vjezbe.glavna.GlavnaDatoteke.ispisProdaje(GlavnaDatoteke.java:63)
+	at hr.java.vjezbe.glavna.GlavnaDatoteke.main(GlavnaDatoteke.java:41)
