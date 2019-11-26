@@ -10,7 +10,9 @@ import java.util.Set;
  * @author Patricija Ku�e
  *
  */
+
 public class Prodaja  implements Serializable{
+
 	private Artikl artikl;
 	private Korisnik korisnik;
 	private LocalDate datumObjave;

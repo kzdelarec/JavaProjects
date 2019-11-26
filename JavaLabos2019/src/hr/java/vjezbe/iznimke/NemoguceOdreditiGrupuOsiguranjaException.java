@@ -43,3 +43,4 @@ public class NemoguceOdreditiGrupuOsiguranjaException extends Exception{
 		super(cause);
 	}
 }
+

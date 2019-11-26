@@ -1,8 +1,6 @@
 package hr.java.vjezbe.entitet;
 
-import java.io.Serializable;
-
-public abstract class Entitet implements Serializable {
+public abstract class Entitet {
 	
 	private Long id;
 	
@@ -19,3 +17,4 @@ public abstract class Entitet implements Serializable {
 	}
 
 }
+

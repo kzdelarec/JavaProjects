@@ -40,7 +40,7 @@ public class GlavnaDatoteke {
 		
 		ispisProdaje(prodaja);
 		
-		try {
+		/*try {
 			serijaliziraj(prodaja);
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
@@ -55,7 +55,7 @@ public class GlavnaDatoteke {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
+		*/
 	}
 	
 	private static void ispisProdaje(ArrayList<Prodaja> prodaja) {

@@ -6,6 +6,7 @@ package hr.java.vjezbe.entitet;
  * @author Patricija Ku�e
  *
  */
+
 public abstract class Korisnik extends Entitet {
 	private String email;
 	private String telefon;

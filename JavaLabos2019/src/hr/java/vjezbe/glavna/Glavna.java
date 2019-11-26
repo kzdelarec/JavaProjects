@@ -207,7 +207,9 @@ public class Glavna {
 			Integer odabraniArtikl = odaberiteArtikl(unos);
 			Artikl artikl = artikliSorted.get(odabraniArtikl - 1);
 
+
 			//prodaniArtikli.add(new Prodaja(artikl, korisnik, LocalDate.now()));
+
 		}
 	}
 
@@ -229,12 +231,15 @@ public class Glavna {
 			// trazi korisnika unos naziva kategorije u posebnoj metodi
 			String nazivKategorija = unosNazivaKategorije(unos, i);
 
+
 			//Kategorija<Artikl> kategorija = new Kategorija<>(nazivKategorija);
 			//unosArtikla(unos, kategorija);
+
 			
 			// uneseni podatci se spremaju u polje kategorija koje sadrzi nazivKategorija i
-			// poljeArtikala
+
 			//listaKategorija.add(kategorija);
+
 		}
 	}
 
@@ -263,7 +268,9 @@ public class Glavna {
 
 				Stanje stanjeArtikla = unosStanja(unos);
 
+
 				//kategorija.dodajArtikl(new Usluga(naslovArtikla, opisArtikla, cijenaArtikla, stanjeArtikla));
+
 			}
 			// izvrsava se ovaj kod ako je korisnik unio broj 2 - Automobil
 			if (tipArtikla == 2) {
@@ -280,6 +287,7 @@ public class Glavna {
 				BigDecimal cijenaAutomobila = unosBigDecimal(unos);
 
 				Stanje stanjeAutomobila = unosStanja(unos);
+
 
 				/*kategorija.dodajArtikl(new Automobil(naslovAutomobila, opisAutomobila, snagaAutobila, stanjeAutomobila,
 						cijenaAutomobila));*/
@@ -358,7 +366,9 @@ public class Glavna {
 				String webTvrtke = unosWebaTvrtke(unos, i);
 				String telefonTvrtke = unosTelefonaTvrtke(unos, i);
 
+
 				//listaKorisnika.add(new PoslovniKorisnik(nazivTvrtke, emailTvrtke, webTvrtke, telefonTvrtke));
+
 			}
 		}
 	}

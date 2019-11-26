@@ -43,3 +43,4 @@ public class CijenaJePreniskaException extends RuntimeException{
 		super(cause);
 	}
 }
+

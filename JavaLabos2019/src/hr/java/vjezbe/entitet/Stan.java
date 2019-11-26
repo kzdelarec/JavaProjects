@@ -74,3 +74,4 @@ public class Stan extends Artikl implements Nekretnina{
 	}
 	
 }
+
